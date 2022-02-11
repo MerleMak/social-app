@@ -15,21 +15,14 @@
   left: 24px;
   top: 60px;
 }
+
 .header__icon {
-  position: absolute;
-  width: 6px;
-  height: 6px;
-  left: 20px;
-  top: 7px;
-  background: #f72e8e;
-  border: 1.2px solid #ffffff;
+  position: relative;
+  right: 0px;
 }
 
 .header__icon-message {
   position: absolute;
-  left: 12.5%;
-  right: 12.5%;
-  top: 20.83%;
-  bottom: 20.83%;
-  color: #ffffff;
+  left: 0px;
+  top: 50px;
 }
