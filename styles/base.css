@@ -4,5 +4,7 @@
   margin: 0;
 }
 body {
+  display: grid;
+  grid-template-rows: 48px auto 88px;
   background-color: #181a1c;
 }
