@@ -1,5 +1,15 @@
 @import "./styles/base.css";
-@import "./styles/footer.css";
-@import "./styles/header.css";
 @import "./styles/utility.css";
 @import "./styles/basic-card.css";
+
+@import "./styles/home/home-header.css";
+@import "./styles/home/home-footer.css";
+
+@import "./styles/search/search-header.css";
+@import "./styles/search/search-footer.css";
+
+@import "./styles/profile/profile-header.css";
+@import "./styles/profile/profile-footer.css";
+
+@import "./styles/alerts/alerts-header.css";
+@import "./styles/alerts/alerts-footer.css";
