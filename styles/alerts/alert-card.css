@@ -1,0 +1,48 @@
+.alert {
+  display: flex;
+  flex-direction: column;
+}
+
+.alert__today {
+  color: rgba(128, 128, 128, 0.644);
+  width: 48px;
+  padding-left: 24px;
+  padding: 15px 24px 15px 24px;
+}
+
+.alert__card {
+  display: flex;
+  align-items: center;
+  font-size: 0.8rem;
+  width: 375px;
+  color: white;
+  padding: 5px 10px 15px 10px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.255);
+}
+
+.alert__card-frame {
+  left: 24px;
+  margin-right: 10px;
+}
+
+.alert__card-textbold {
+  font-weight: 700;
+}
+
+.alert__card-time {
+  padding-top: 5px;
+  color: gray;
+}
+
+.alert__yesterday {
+  color: rgba(128, 128, 128, 0.644);
+  padding-left: 24px;
+  padding: 15px 24px 15px 24px;
+}
+
+.mt40 {
+  margin-top: 40px;
+}
+.pt30 {
+  padding-top: 30px;
+}
