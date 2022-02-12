@@ -9,18 +9,12 @@
 }
 
 .footer__icons {
-  background-color: gray;
+  background-color: rgb(19, 19, 19);
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   padding-bottom: 20px;
-}
-
-.footer__icon--round {
-  background: linear-gradient(to right, rgb(212, 81, 238), rgb(106, 40, 192));
-  border-radius: 100%;
-  width: 35px;
 }
 
 .footer__icon__underline {
