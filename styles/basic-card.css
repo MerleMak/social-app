@@ -31,6 +31,8 @@
 }
 
 .card__basic {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
   color: white;
   border-top: 1px solid rgba(128, 128, 128, 0.255);
   border-bottom: 1px solid rgba(128, 128, 128, 0.256);
