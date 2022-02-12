@@ -8,6 +8,7 @@
 .header__searchbar {
   font-family: Arial, Helvetica, sans-serif;
   font-style: normal;
+  color: white;
   background: #323436;
   border-radius: 32px;
   display: flex;
