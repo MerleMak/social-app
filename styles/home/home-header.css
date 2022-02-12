@@ -28,7 +28,8 @@
   top: 52px;
   border: 1px solid #727477;
   border-radius: 50%;
-  padding: 5px;
+  padding: 4px;
+  background-color: black;
 }
 
 .header__message-icon--alert {

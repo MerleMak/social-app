@@ -1,0 +1,83 @@
+.profile__header-background {
+  width: 375px;
+  height: 160px;
+}
+
+.header__bookmark-icon {
+  position: absolute;
+  right: 25px;
+  top: 105px;
+  border: 1px solid #727477;
+  border-radius: 50%;
+  padding: 4px;
+  background-color: black;
+}
+
+.header-bottom {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-pic {
+  position: absolute;
+  top: -75px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid purple;
+}
+
+.profile-name {
+  margin-top: 90px;
+  font-size: 1.5rem;
+}
+
+.profile-from {
+  margin: 5px;
+  color: grey;
+}
+
+.profile-about {
+  color: lightgrey;
+}
+
+.profile-edit {
+  display: flex;
+  gap: 30px;
+  margin: 20px;
+  position: relative;
+}
+
+.profile__edit-button {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 9px;
+  width: 140px;
+  text-align: center;
+  position: absolute;
+  right: 0px;
+}
+
+.profile-nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 20px 0 20px;
+  border-bottom: 1px solid gray;
+}
+
+.profile-nav-link {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.profile-nav-on {
+  border-bottom: 3px solid rgb(70, 97, 250);
+  padding-bottom: 10px;
+}
