@@ -1,0 +1,35 @@
+.alert-header {
+  color: white;
+}
+
+.alert-header__top-bar {
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1;
+}
+
+.alert-header__text {
+  display: flex;
+  padding-top: 50px;
+  position: fixed;
+  background-color: #181a1c;
+  width: 100%;
+  height: 100px;
+}
+.alert-header__text--alerts {
+  width: 49px;
+  height: 24px;
+  left: 24px;
+  top: 68px;
+  position: fixed;
+}
+
+.alert-header__text--mark {
+  color: #f62e8e;
+  font-weight: 700;
+  height: 24px;
+  right: 24px;
+  top: 69px;
+  position: fixed;
+}
