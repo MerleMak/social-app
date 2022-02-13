@@ -13,6 +13,8 @@
 
 @import "./styles/alerts/alerts-header.css";
 @import "./styles/alerts/alerts-footer.css";
-
 @import "./styles/alerts/alert-card.css";
+
 @import "./styles/tags/popular.css";
+
+@import "./styles/general-profile/general-profile.css";
