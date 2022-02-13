@@ -21,10 +21,36 @@
   height: 44px;
   left: 24px;
   top: 60px;
+  overflow-y: scroll;
 }
 
 .header__search-icon {
   position: absolute;
   right: 25px;
   top: 60px;
+}
+
+.search__main {
+  margin-top: 160px;
+}
+
+.search__dot-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.search__dot-red {
+  width: 6px;
+  height: 6px;
+  background-color: rgb(203, 84, 104);
+  border-radius: 50%;
+}
+
+.search__dot-grey {
+  width: 6px;
+  height: 6px;
+  background-color: grey;
+  border-radius: 50%;
 }
