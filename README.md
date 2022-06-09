@@ -1,3 +1,3 @@
 # social-app
-- design practice with CSS -
+design practice with CSS 
 
